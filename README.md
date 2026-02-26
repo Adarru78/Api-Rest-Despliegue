@@ -18,14 +18,14 @@ Todo esto deja nuestra API lista para recibir peticiones CRUD a través de la IP
 
 ## Contenedor
 
-![](https://github.com/Adarru78/Api-Rest-Despliegue/blob/a145f5b3db3219543eb31d72a89073a2713b2081/CONTENEDOR.png)
+![](https://github.com/Adarru78/Api-Rest-Despliegue/blob/e34fff62799cb258cc16cec205259ca321771ada/CONTENEDOR.png)
 
 ## Read
 ![](https://github.com/Adarru78/Api-Rest-Despliegue/blob/a145f5b3db3219543eb31d72a89073a2713b2081/READ.png)
 
 ## Read con id
 
-![](![](https://raw.githubusercontent.com/Adarru78/Api-Rest-Despliegue/a145f5b3db3219543eb31d72a89073a2713b2081/READ%202.png))
+![](https://github.com/Adarru78/Api-Rest-Despliegue/blob/e34fff62799cb258cc16cec205259ca321771ada/READ%202.png)
 
 ## Create
 
