@@ -17,4 +17,4 @@ Docker compose ps permite verificar que los contenedores api_usuarios y mongo_db
 Todo esto deja nuestra API lista para recibir peticiones CRUD a través de la IP del servidor y el puerto configurado, con MongoDB almacenando los datos de manera persistente gracias a un volumen Docker (Todo en docker-compose.yml).
 
 ## Read
-![](./READ.PNG)
+![](https://github.com/Adarru78/Api-Rest-Despliegue/blob/a145f5b3db3219543eb31d72a89073a2713b2081/READ.png)
