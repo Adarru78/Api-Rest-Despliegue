@@ -25,7 +25,7 @@ Todo esto deja nuestra API lista para recibir peticiones CRUD a través de la IP
 
 ## Read con id
 
-![](https://github.com/Adarru78/Api-Rest-Despliegue/blob/a145f5b3db3219543eb31d72a89073a2713b2081/READ 2.png)
+![](![](https://raw.githubusercontent.com/Adarru78/Api-Rest-Despliegue/a145f5b3db3219543eb31d72a89073a2713b2081/READ%202.png))
 
 ## Create
 
