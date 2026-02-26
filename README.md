@@ -15,3 +15,6 @@ En el servidor, para desplegar y ejecutar la API usamos Docker Compose, que se e
 Docker compose ps permite verificar que los contenedores api_usuarios y mongo_db estén corriendo, y docker compose logs -f api o docker compose logs -f mongo sirve para monitorear los logs en tiempo real. 
 
 Todo esto deja nuestra API lista para recibir peticiones CRUD a través de la IP del servidor y el puerto configurado, con MongoDB almacenando los datos de manera persistente gracias a un volumen Docker (Todo en docker-compose.yml).
+
+## Read
+![](./READ.PNG)
